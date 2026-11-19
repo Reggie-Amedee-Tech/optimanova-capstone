@@ -4,7 +4,7 @@ An AI helper that drafts the Saturday volunteer plan for **Linden Street Communi
 
 All names and data in this repo are made up for the capstone.
 
-**Demo video:** [add link]
+**Demo video:** [Watch the client demo on Loom](https://www.loom.com/share/9a6fa8f784104e539049fd33b8eb7ca2)
 
 ## The problem
 
